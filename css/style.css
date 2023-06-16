@@ -1,3 +1,20 @@
+:root{
+    --grey-bgr:#F5F5F5;
+    --white-bgr:#FFFFFF;
+    --btn-bgr-dark: #263238;
+    --btn-bgr-grey:#EEEEEE;
+    --text-grey-cl:#8F95A5;
+    --text-white-cl:#FFFFFF;
+    --text-dark-cl:#263238;
+    --text-black-cl:#000000;
+
+}
+body{
+    font-family: 'Poppins',sans-serif;
+    background-color: var(--white-bgr);
+    color: #000000;
+}
+
 .logo{
 font-size: 36px;
 line-height: 54px;
